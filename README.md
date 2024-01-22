@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, mucho gusto. Quizá no encuentres mucho aquí, es por que estoy construyendo y aprendiendo para formarme en esta aventura de la programación.
 
 <!--
 **RomPirsZ/RomPirsZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
